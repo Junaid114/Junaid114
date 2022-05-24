@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5059&width=486&lines=Hi+!+I+am+Junaid+%2C+Full+stack+developer)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/  --- For changing typing effect in future use this link -->  
-<!--
-**Junaid114/Junaid114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **Junaid114/Junaid114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gmail : junaid8597@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Nothing
--->
