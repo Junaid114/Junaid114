@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gmail : junaid8597@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Nothing
+
+
+<img align="right" alt="GIF" height="200px" src="19Jq.gif">
