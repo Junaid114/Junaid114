@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 # 💻Tech Stack
-https://img.shields.io/badge/javascript-yellow
+[Javascript](https://img.shields.io/badge/Javscript-yellow)
 
 
 
