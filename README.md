@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Nothing
 
 
-<img align="right" alt="GIF" height="200px" src="19Jq.gif">
 
 
 # 💻Tech Stack
