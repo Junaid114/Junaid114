@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 # 💻Tech Stack
-[Javascript](https://img.shields.io/badge/Javscript-yellow)
+![enter link description here](%5BJavascript%5D%28https://img.shields.io/badge/Javscript-yellow%29)
 
 
 
