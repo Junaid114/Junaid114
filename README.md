@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5059&width=486&lines=Hi+!+I+am+Junaid+%2C+Full+stack+developer)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/  --- For changing typing effect in future use this link -->  
+https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 
 <!-- **Junaid114/Junaid114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 
 
 # 💻Tech Stack
-![enter link description here](%5BJavascript%5D%28https://img.shields.io/badge/Javscript-yellow%29)
+
 
 
 
