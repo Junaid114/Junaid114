@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack development
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on Hackathons
-- 💬 Ask me about Full Stack
+- 💬 Ask me about Full Stack Development
 - 📫 How to reach me: gmail : junaid8597@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Nothing
